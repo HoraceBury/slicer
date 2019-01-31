@@ -1,6 +1,6 @@
 # slicer
 
-[Click here to see a demo of the original straight line slicer.](https://horacebury.github.io/slicer/Original/web/)
+[Click here to see a demo of the original straight line slicer.](https://horacebury.github.io/slicer/Original/web/index.html)
 
 [Click here to see a demo of the curved line slicer.](https://horacebury.github.io/slicer/Curved/web/)
 

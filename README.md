@@ -2,4 +2,4 @@
 
 [Click here to see a demo.](https://horacebury.github.io/slicer/Web/)
 
-<a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/horaceqwofee"><img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:5px">Buy me a coffee</span></a>
+<a href="https://www.buymeacoffee.com/horaceqwofee" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
